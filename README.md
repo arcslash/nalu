@@ -4,4 +4,4 @@ This is a PyTorch implementation of [Neural Arithmetic Logic Units](https://arxi
 
 Credits for this code go to [kevinzakka](https://github.com/kevinzakka/NALU-pytorch).
 
-Some modifications were made to adapt
+Some modifications were made to adapt the article on [blog](http://isharaupamal.com/index.php/machine-learning-and-artificial-intelligence/neural-arithmetic-units/)
